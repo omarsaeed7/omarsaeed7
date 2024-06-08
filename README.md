@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently involved in ALX SE program.<br>👯 I’m looking to collaborate on real project.<br>🤝 I’m looking for help with the market needs.<br>🌱 I’m currently learning C<br>⚡ Fun fact, I Use Debian with dwm.
+🔭 I’m currently learning new fields of technology.<br>👯 I’m looking to collaborate on real project.<br>🤝 I’m looking for help with the market needs.<br>🌱 I’m currently learning C<br>⚡ Fun fact, I Use Debian with dwm.
 
 
 ## 🌐 Socials:
