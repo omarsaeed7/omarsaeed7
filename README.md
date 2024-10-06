@@ -1,7 +1,7 @@
 Hi 👋 My name is Omar Saeed
 ===========================
 
-Web Developer & Linux Admin
+Web Developer & Linux User
 ---------------------------
 
 I'm information systems graduate, who passionate about learning web development technology and back-end development in depth.
