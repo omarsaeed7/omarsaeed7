@@ -1,4 +1,4 @@
-Hi 👋 My name is Omar Saeed
+Hi 👋 It's Omar Saeed
 ===========================
 
 Web Developer & Linux User
