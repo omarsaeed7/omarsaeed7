@@ -8,7 +8,7 @@ I'm information systems graduate, who passionate about learning web development 
 
 *   🖥️  See my portfolio at [NewEra](http://omarsaeed7.github.io/personal/)
 *   ✉️  You can contact me at [omarbensaeed@proton.me](mailto:omarbensaeed@proton.me)
-*   🧠  I'm learning PHP, Mysql, Laravel.
+*   🧠  I'm Working as Backend Engineer Using PHP / Laravel.
 *   🤝  I'm open to collaborating on Open source project and freelance project.
 
   ###  Skills 
